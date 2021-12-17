@@ -21,3 +21,8 @@ sub_data <- subset(data, Date >= "2007-02-01" & Date <= "2007-02-02")
 # Converting date formats
 datetime <- paste(as.Date(sub_data$Date), sub_data$Time)
 sub_data$Datetime <- as.POSIXct(datetime)
+
+# Generate 1-st plot
+hist(data$Global_active_power, main="Global Active Power", 
+     xlab="Global Active Power (kilowatts)", ylab="Frequency", 
+     col="Red")
