@@ -24,4 +24,4 @@ This assignment uses data from the UC Irvine Machine Learning Repository, a popu
 
 9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-*P.S.* In the plots, the designations of the days of the week are set in accordance with the language of the system, so instead of "Thu", "Fri" and "Sat" there are "Чт", "Пт" and "Сб", which means the same thing, but in Russian ;)
+***P.S.*** In the plots, the designations of the days of the week are set in accordance with the language of the system, so instead of "Thu", "Fri" and "Sat" there are "Чт", "Пт" and "Сб", which means the same thing, but in Russian ;)
